@@ -1,7 +1,8 @@
-this is first master branch
-hi this second  master branch file
-class a
-{
-static void main()
-}
+x=10
+y=40
+z="siva"
 
+print(type(x))
+print(type(y))
+print(type(z))
+print ("sivakrishna")
